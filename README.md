@@ -15,7 +15,7 @@ BiteQuest is a modern, responsive recipe discovery app built with React. It allo
 - 🌈 Clean, user-friendly interface
 
 ## 🧑‍🍳 Demo
-Live Demo (optional): https://your-demo-link.com
+Live Demo : https://and1asyraf.github.io/BiteQuest/
 
 ## 🚀 Getting Started
 Prerequisites
